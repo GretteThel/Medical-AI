@@ -65,7 +65,7 @@ Below is a sample AI-generated output from Gemini 2.5 Flash:
 - Clear visualization of lungs, ribs, and heart shadow.
 - No evidence of consolidation, pneumothorax, or pleural effusion.
 - Normal cardiac silhouette.
-- Minor haziness in the right lower lobe—suggest further review.
+- Minor haziness in the right lower lobe - suggest further review.
 
 **Impression:**
 Normal chest X-ray with minor opacities likely due to technical factors.
