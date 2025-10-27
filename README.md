@@ -21,8 +21,7 @@ It explores how generative AI can assist radiologists in analyzing X-rays and ot
 1. **Install dependencies**
    ```python
    !pip install -q google-generativeai pillow pandas requests
-````
-
+    ````
 2. **Initialize Gemini model**
 
    ```python
