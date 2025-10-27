@@ -94,9 +94,7 @@ It helps make AI reasoning more transparent and interpretable for educational pu
 However, it does **not** include formal XAI mechanisms such as:
 
 - Visual heatmaps or saliency maps (e.g., Grad-CAM, LIME)
-
 - Quantitative confidence scores
-
 - Feature-level attribution or model introspection
 
 Future iterations could integrate these to build a more **robust explainable multimodal AI** system for healthcare applications.
