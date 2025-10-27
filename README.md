@@ -59,7 +59,7 @@ It explores how generative AI can assist radiologists in analyzing X-rays and ot
 
 Below is a sample AI-generated output from Gemini 2.5 Flash:
 
-**Image Type: Chest X-ray (PA view)**
+**Image Type:** Chest X-ray (PA view)
 
 **Findings:**
 - Clear visualization of lungs, ribs, and heart shadow.
