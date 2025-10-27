@@ -1,6 +1,7 @@
 # Medical-AI - Live Code Experiment
 
-This project demonstrates how to use **Google’s Gemini 2.5 Flash** multimodal model for **AI-assisted medical image interpretation**.  
+This project demonstrates how to use **Google’s Gemini 2.5 Flash** multimodal model for **AI-assisted medical image interpretation**.
+
 It explores how generative AI can assist radiologists in analyzing X-rays and other clinical images using both visual and structured patient data.
 
 ---
