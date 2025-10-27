@@ -86,6 +86,23 @@ When combined with patient data, the model provides more context-aware reasoning
 * Explainable AI in healthcare
 
 ---
+## Explainability & Limitations
+
+This project demonstrates **narrative explainability** — the model generates **human-readable textual explanations** of what it observes in an image, describing structures, findings, and reasoning in natural language.
+It helps make AI reasoning more transparent and interpretable for educational purposes.
+
+However, it does **not** include formal XAI mechanisms such as:
+
+Visual heatmaps or saliency maps (e.g., Grad-CAM, LIME)
+
+Quantitative confidence scores
+
+Feature-level attribution or model introspection
+
+Future iterations could integrate these to build a more **robust explainable multimodal AI** system for healthcare applications.
+
+---
+
 
 ## Disclaimer
 
