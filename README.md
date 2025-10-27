@@ -54,6 +54,28 @@ It explores how generative AI can assist radiologists in analyzing X-rays and ot
    response = model.generate_content([prompt3, image])
    ```
 ---
+## Results Preview
+
+Below is a sample AI-generated output from Gemini 2.5 Flash:
+
+**Image Type: Chest X-ray (PA view)**
+
+**Findings:**
+- Clear visualization of lungs, ribs, and heart shadow.
+- No evidence of consolidation, pneumothorax, or pleural effusion.
+- Normal cardiac silhouette.
+- Minor haziness in the right lower lobe—suggest further review.
+
+**Impression:**
+Normal chest X-ray with minor opacities likely due to technical factors.
+Recommend follow-up only if clinical symptoms persist.
+
+When combined with patient data, the model provides more context-aware reasoning, such as:
+
+“Given the patient’s history of chronic cough and mild fever, the subtle opacity in the right lobe may represent an early inflammatory process.”
+
+
+---
 
 ## Applications
 
