@@ -88,7 +88,7 @@ When combined with patient data, the model provides more context-aware reasoning
 ---
 ## Explainability & Limitations
 
-This project demonstrates **narrative explainability** — the model generates **human-readable textual explanations** of what it observes in an image, describing structures, findings, and reasoning in natural language.
+This project demonstrates **narrative explainability** - the model generates **human-readable textual explanations** of what it observes in an image, describing structures, findings, and reasoning in natural language.
 It helps make AI reasoning more transparent and interpretable for educational purposes.
 
 However, it does **not** include formal XAI mechanisms such as:
